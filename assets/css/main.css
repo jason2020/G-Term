@@ -80,6 +80,12 @@ input::-moz-focus-inner {
 	color: white !important;
 }
 
+#thingText {
+	padding: 1em;
+	text-align: left !important;
+	text-indent: 2em;
+}
+
 .myCanvas {
 	margin-top: 7vh !important;
 }
